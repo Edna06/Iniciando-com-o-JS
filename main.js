@@ -97,9 +97,9 @@ const number = Number(value)
 const calc = number % 2
 
 if(calc === 0) {
-  "o número inserido é par"
+  alert("o número inserido é par")
 } else {
-  "O número inserido é ímpar"
+  alert("O número inserido é ímpar")
 }
 
 
